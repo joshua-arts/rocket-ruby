@@ -9,8 +9,8 @@ data_file = '~/Desktop/rocket-ruby/sample.json'
 json_file = File.expand_path(data_file)
 
 # Create a replay object.
-myReplay = Replay.new(replay_file, json_file)
-myReplay.parse_data
+my_replay = Replay.new(replay_file, json_file)
+my_replay.parse_data
 
 # This creates either writes to and existing .json
 # file, or creates a new one if none is given.
