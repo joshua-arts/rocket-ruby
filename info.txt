@@ -1,0 +1,49 @@
+# Rocket Ruby
+# Version: 1.0
+#
+# Wednesday, June 8th 2016
+# Developed by Joshua Arts
+#
+# A program to parse data from the
+# Rocket League .replay file format.
+#
+# TO DO
+#   - Better optimize to work with problem replay files.
+#   - Convert meta data into readable format (JSON).
+#
+# ---------------------------------------------
+#
+# Goals Structure:
+#
+# GoalsArray[goalNumber][propertyNumber][nameOrValue]
+#
+# propertyNumber:
+#   0: frame
+#   1: player who scored
+#   2: scoring team
+#
+# nameOrValue:
+#   0: property name
+#   2: property value
+#
+# ---------------------------------------------
+#
+# Stats Structure
+#
+# StatsArray[playerNumber][statNumber][nameOrValue]
+#
+# statNumber:
+#   0: name of player
+#   1: players platform (Steam, PS4, XBox)
+#   2: online ID
+#   3: player team
+#   4: score (points)
+#   5: goals
+#   6: assists
+#   7: saves
+#   8: shots
+#   9: is player a bot
+#
+# nameOrValue:
+#   0: stat name
+#   2: stat value

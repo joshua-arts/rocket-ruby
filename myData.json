@@ -1,0 +1,123 @@
+{
+  "TeamSize": "2",
+  "Team0Score": "7",
+  "Team1Score": "3",
+  "Goals": {
+    "0": {
+      "frame": "904",
+      "PlayerName": "Jaccoud",
+      "PlayerTeam": "1"
+    },
+    "1": {
+      "frame": "2104",
+      "PlayerName": "B2theden",
+      "PlayerTeam": "0"
+    },
+    "2": {
+      "frame": "2622",
+      "PlayerName": "Jaccoud",
+      "PlayerTeam": "1"
+    },
+    "3": {
+      "frame": "2969",
+      "PlayerName": "Jaccoud",
+      "PlayerTeam": "1"
+    },
+    "4": {
+      "frame": "4163",
+      "PlayerName": "B2theden",
+      "PlayerTeam": "0"
+    },
+    "5": {
+      "frame": "4868",
+      "PlayerName": "B2theden",
+      "PlayerTeam": "0"
+    },
+    "6": {
+      "frame": "5443",
+      "PlayerName": "The Evil Kitty",
+      "PlayerTeam": "0"
+    },
+    "7": {
+      "frame": "6368",
+      "PlayerName": "The Evil Kitty",
+      "PlayerTeam": "0"
+    },
+    "8": {
+      "frame": "6694",
+      "PlayerName": "The Evil Kitty",
+      "PlayerTeam": "0"
+    },
+    "9": {
+      "frame": "6961",
+      "PlayerName": "B2theden",
+      "PlayerTeam": "0"
+    }
+  },
+  "PlayerStats": {
+    "0": {
+      "Name": "The Evil Kitty",
+      "Platform": "OnlinePlatform_Steam",
+      "OnlineID": "76561198023067369",
+      "Team": "0",
+      "Score": "940",
+      "Goals": "3",
+      "Assists": "1",
+      "Saves": "0",
+      "Shots": "4",
+      "bBot": false
+    },
+    "1": {
+      "Name": "Jaccoud",
+      "Platform": "OnlinePlatform_Steam",
+      "OnlineID": "76561198025141915",
+      "Team": "1",
+      "Score": "720",
+      "Goals": "3",
+      "Assists": "0",
+      "Saves": "0",
+      "Shots": "2",
+      "bBot": false
+    },
+    "2": {
+      "Name": "B2theden",
+      "Platform": "OnlinePlatform_Steam",
+      "OnlineID": "76561198104858660",
+      "Team": "0",
+      "Score": "1100",
+      "Goals": "4",
+      "Assists": "2",
+      "Saves": "0",
+      "Shots": "8",
+      "bBot": false
+    },
+    "3": {
+      "Name": "BeardedPower070",
+      "Platform": "OnlinePlatform_Dingo",
+      "OnlineID": "2533274928679236",
+      "Team": "1",
+      "Score": "20",
+      "Goals": "0",
+      "Assists": "0",
+      "Saves": "0",
+      "Shots": "0",
+      "bBot": false
+    }
+  },
+  "ReplayName": "hoops",
+  "ReplayVersion": "2",
+  "GameVersion": "10",
+  "BuildID": "636774701",
+  "Changelist": "132594",
+  "BuildVersion": "160513.59355.132594",
+  "RecordFPS": "30.0",
+  "KeyframeDelay": "10.0",
+  "MaxChannels": "1023",
+  "MaxReplaySizeMB": "10",
+  "Id": "AA73149D4C7AA040239FB09F1A04F40D",
+  "MapName": "HoopsStadium_P",
+  "Date": "2016-06-09:16-42",
+  "NumFrames": "8461",
+  "MatchType": "Online",
+  "PlayerName": "The Evil Kitty"
+}
