@@ -1,6 +1,8 @@
 # @name is the name of the property.
 # @data is the data from the property.
 
+# This class orgainizes and decodes the data for properties found in the header section.
+
 require_relative 'records.rb'
 
 class Property

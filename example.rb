@@ -5,7 +5,7 @@ file_path = '~/Desktop/rocket-ruby/sampleReplays/five.replay'
 replay_file = File.expand_path(file_path)
 
 # Optional, define a .json file.
-data_file = '~/Desktop/rocket-ruby/myData.json'
+data_file = '~/Desktop/rocket-ruby/sampleData.json'
 json_file = File.expand_path(data_file)
 
 # Create a replay object.
