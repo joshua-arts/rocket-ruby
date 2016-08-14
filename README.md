@@ -15,12 +15,18 @@ require 'replay.rb'
 ```
 From there, it is very simple to use. Below is a basic implementation where replay_file is a file of the .replay file format. A JSON file can be supplied, or if you need Rocket Ruby to generate its own, just pass nil.
 ```ruby
-# Write to a JSON file (json_file).
+
+# Create a new JSON file with the data.
+myReplay = Replay.new(replay_file)
+myReplay.parse_data
+
+# Write to a specific JSON file (json_file).
 myReplay = Replay.new(replay_file, json_file)
 myReplay.parse_data
 
-# Create a JSON file.
-myReplay = Replay.new(replay_file, nil)
+
+# Get back Hash as return.
+myReplay = Replay.new(replay_file, nil,"hash")
 myReplay.parse_data
 ```
 
